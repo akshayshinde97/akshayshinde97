@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I'm currently working on Management System for Flatmates comprising of Shared todo apps for movies with comments , Trip planner, Budget Planner, Splitting and managing finances and analytics in spendings.
+
 
 
 ## 🌐 Socials:
