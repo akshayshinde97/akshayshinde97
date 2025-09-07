@@ -1,8 +1,8 @@
 ### Hi there 👋
 # 💫 About Me:
 <div align="center">
-<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpocWZsd2c2dmw3dTJkbmhtNmNpdTExMG4xc2YxdHVmanhjNDV1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="600" height="300"/>
+  
   <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+I'm+Akshay+Shinde+:)&font=Fira%20Code&center=true&width=440&height=45&color=00ff41&background=000000&vCenter=true&pause=1000&size=22" />
 <!--   <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+I'm+Akshay+Shinde+:)&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=22" /> -->
 </div>
